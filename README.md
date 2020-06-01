@@ -1,6 +1,8 @@
 # system
-- 外部リンク: [ユニットテストフレームワーク](https://docs.python.org/ja/dev/library/unittest.html)
-- 外部リンク: [PEP8 Python コードのスタイルガイド](https://pep8-ja.readthedocs.io/ja/latest/)
+- 外部リンク: [ユニットテストフレームワーク]
+  (https://docs.python.org/ja/dev/library/unittest.html)
+- 外部リンク: [PEP8 Python コードのスタイルガイド]
+  (https://pep8-ja.readthedocs.io/ja/latest/)
 
 - 文字列リテラルは単一引用符 "'" で括る
 - docstring は二重引用符を３津連続で連ねる （この docstring のように）
